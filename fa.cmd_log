@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/exp_xilinx/full_adder/fa.xst" -ofn "E:/exp_xilinx/full_adder/fa.syr" 
+xst -intstyle ise -ifn "E:/exp_xilinx/full_adder/fa.xst" -ofn "E:/exp_xilinx/full_adder/fa.syr" 
