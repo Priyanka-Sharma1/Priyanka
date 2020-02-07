@@ -1,2 +1,0 @@
-# Priyanka
-A Learner.
